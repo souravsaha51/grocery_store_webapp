@@ -26,6 +26,6 @@ The Grocery Store Management System is a web-based application that enables groc
 2. Navigate to the project directory
 3. Install the required dependencies: pip install -r requirements.txt
 4. Set up the SQL database.
-EER Diagram is attached to understand the type of database <img width="538" alt="image" src="https://github.com/ankitrajput77/grocery_store_webapp/assets/113281225/d5f5610e-bfb0-4c8e-8291-80c86c100f23">
+EER Diagram is attached to understand the type of database <img width="538" alt="image" src="https://github.com/souravsaha51/grocery_store_webapp/blob/main/Screenshot%202024-11-15%20143538.png?raw=true">
 6. Run the application, server.py
 7. Access the web application in your browser: (use path of ./grocery_app/ui/index.html as browser url)
