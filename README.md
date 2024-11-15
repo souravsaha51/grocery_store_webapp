@@ -1,1 +1,1 @@
-# grocery_store_webapp
+# Grocery Store Management System Web App
