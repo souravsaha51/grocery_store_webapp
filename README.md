@@ -4,13 +4,13 @@ This is a Grocery Store Management System web application built using Python Fla
 
 ## Description
 
-The Grocery Store Management System is a web-based application that enables grocery store owners or managers to efficiently manage their store's inventory, track orders, and perform various administrative tasks. The application provides an intuitive user interface for easy navigation and interaction.
+The Grocery Store Management System is a web-based application that enables grocery store owners or managers to efficiently manage their store's inventory, track orders and perform various administrative tasks. The application provides an intuitive user interface for easy navigation and interaction.
 
 ## Features
 
 - **Inventory Management:** Keep track of products, their quantities, and prices in the store's inventory.
 - **Order Management:** manage orders from customers.
-- **action features:** delete product, edit product, see product details, add new order, add new product.
+- **Product Actions:** Add, edit, delete, and view product details to maintain an up-to-date inventory.
 
 ## Technologies Used
 
@@ -27,4 +27,4 @@ The Grocery Store Management System is a web-based application that enables groc
 3. Install the required dependencies: pip install -r requirements.txt
 4. Set up the SQL database.
 EER Diagram is attached to understand the type of database <img width="538" alt="image" src="https://github.com/souravsaha51/grocery_store_webapp/blob/main/EER%20diagram.png?raw=true">
-6. Run the application, server.py
+6. Run the application, server.py.
